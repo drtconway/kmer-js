@@ -1,0 +1,1 @@
+export { parseFasta } from "./FASTA";
